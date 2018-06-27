@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Tip App*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipper** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Hector Diaz**
 
-Time spent: **X** hours spent in total
+Time spent: **4:30** hours spent in total
 
 ## User Stories
 
